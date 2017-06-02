@@ -1,6 +1,7 @@
 # Springboard-Capstone-Project
-! [alt text][logo]
-[logo]: https://github.com/yangzhibo5947/Springboard-Capstone-Project/blob/master/Capstone%20Project/pictures/9.png
+![alt text][logo]
+
+[logo]:  https://github.com/yangzhibo5947/Springboard-Capstone-Project/blob/master/Capstone%20Project/pictures/9.png
 ## Kaggle Competition: Human or Robot?
 
 ### About the Problem
