@@ -21,15 +21,15 @@ __This is the final report of my approach in a interesting _[Kaggle competition]
 
 ### Summary 
 
-    Among all three sets of models, Random Forest (RF) and AdaBoost (AB) have the best auc scores (scores of RF is a little bit better than those of AB). Other modeling algorithms like k-Nearest-Neighbors and Logistic Regression have much lower AUC scores in average. 
+   Among all three sets of models, Random Forest (RF) and AdaBoost (AB) have the best auc scores (scores of RF is a little bit better than those of AB). Other modeling algorithms like k-Nearest-Neighbors and Logistic Regression have much lower AUC scores in average. 
 
-    I used 5-fold cross validation, which is a relatively better number of folds (not too time-consuming), to fine-tuning and evaluating the models. Fine-tuning RF models takes relatively more time, but it is still very much tolerable. I tuned models using AUC scoring because AUC scores are the only way to evaluate prediction results in this Kaggle competition. And since the data are imbalanced (5% labeled robots, 95% human), we must consider resampling the data to get better results. According to the number of observations of data, over-sampling method will result in better results.
+   I used 5-fold cross validation, which is a relatively better number of folds (not too time-consuming), to fine-tuning and evaluating the models. Fine-tuning RF models takes relatively more time, but it is still very much tolerable. I tuned models using AUC scoring because AUC scores are the only way to evaluate prediction results in this Kaggle competition. And since the data are imbalanced (5% labeled robots, 95% human), we must consider resampling the data to get better results. According to the number of observations of data, over-sampling method will result in better results.
     
-    Here is the table of results of all the models:
+   Here is the table of results of all the models:
     
     
-|        Models       | Original Features| Original Features         |       Additional Features      |
-|:-------------------:|:-------------:|:----------------------------:|:------------------------------:|
+|        Models       | Original Features                           ||       Additional Features      |
+|:-------------------:|:--------------------------------------------:|:------------------------------:|
 |                     | AUC (untuned) | AUC (tuned and over-sampled) |   AUC (tuned and over-sampled) |
 |    Random Forest    |  0.80         |   0.82                       |   0.84                         |
 | k-Nearest-Neighbors |  0.72         |   0.76                       |   0.76                         |
