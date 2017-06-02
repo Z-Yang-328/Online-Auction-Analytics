@@ -64,3 +64,5 @@ According to my findings, the following recommandations will help the company to
 ## Acknowledgements
 AJ Sanchez: As my mentor, AJ performed an really important role in helping me completing this capstone project.
 Jason Brownlee's posts: http://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/
+Harvard Data Science Courses: https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328
+Liau Yung Siang's personal website: http://ys-l.github.io/posts/2015/06/11/kaggle-human-or-robot-challenge/
