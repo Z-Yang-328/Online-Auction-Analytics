@@ -28,8 +28,8 @@ __This is the final report of my approach in a interesting _[Kaggle competition]
    Here is the table of results of all the models:
     
     
-|        Models       | Original Features                           ||       Additional Features      |
-|:-------------------:|:--------------------------------------------:|:------------------------------:|
+|        Models       | Original Features |   Original Feature       |       Additional Features      |
+|:-------------------:|:-------------:|:----------------------------:|:------------------------------:|
 |                     | AUC (untuned) | AUC (tuned and over-sampled) |   AUC (tuned and over-sampled) |
 |    Random Forest    |  0.80         |   0.82                       |   0.84                         |
 | k-Nearest-Neighbors |  0.72         |   0.76                       |   0.76                         |
@@ -60,3 +60,7 @@ According to my findings, the following recommandations will help the company to
    
 * **Bidding Speed**  
    Bidding speed is an very important difference between human and robot bidders. Robots are able to make a large number of bids in a short period of time. So in real bidding events, once a bidder's bidding speed is recognized as "abnormal", the bidder should be classified as a robot bidder.  
+
+## Acknowledgements
+AJ Sanchez: As my mentor, AJ performed an really important role in helping me completing this capstone project.
+Jason Brownlee's posts: http://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/
