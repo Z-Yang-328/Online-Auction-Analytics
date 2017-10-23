@@ -1,8 +1,8 @@
-# Springboard-Capstone-Project
+# Online Auction Analytics
 ![alt text][logo]
 
 [logo]:  https://github.com/yangzhibo5947/Springboard-Capstone-Project/blob/master/Capstone%20Project/pictures/9.png
-## Kaggle Competition: Human or Robot?
+## Kaggle Competition: Online Auction Analytics
 
 ### About the Problem
 
