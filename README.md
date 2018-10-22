@@ -64,7 +64,7 @@ According to my findings, the following recommandations will help the company to
    Bidding speed is an very important difference between human and robot bidders. Robots are able to make a large number of bids in a short period of time. So in real bidding events, once a bidder's bidding speed is recognized as "abnormal", the bidder should be classified as a robot bidder.  
 
 ## Acknowledgements
-AJ Sanchez: As my mentor, AJ performed an really important role in helping me completing this capstone project.__
-Jason Brownlee's posts: http://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/__
-Harvard Data Science Courses: https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328__
-Liau Yung Siang's personal website: http://ys-l.github.io/posts/2015/06/11/kaggle-human-or-robot-challenge/__
+AJ Sanchez: As my mentor, AJ performed an really important role in helping me completing this capstone project.  
+Jason Brownlee's posts: http://machinelearningmastery.com/machine-learning-performance-improvement-cheat-sheet/  
+Harvard Data Science Courses: https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328  
+Liau Yung Siang's personal website: http://ys-l.github.io/posts/2015/06/11/kaggle-human-or-robot-challenge/
